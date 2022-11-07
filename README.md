@@ -1,0 +1,1 @@
+API created for graphql studies
